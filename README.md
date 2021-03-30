@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TylerMorrison
+- 👋 Hi, I’m Tyler Morrison
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning about MERN stack development 
 - 📫 How to reach me tyler111099@gmail.com 😃
